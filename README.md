@@ -76,7 +76,7 @@ npm run test
 ## Choix Technique
 
  1. **Commander API** : aucune différence d'API avec Caporal, mis à jour régulièrement, communauté importante
- 2. **Chalk API** :  expressive API
+ 2. **Chalk API** :  expressive API (permet l'utilisation de couleurs)
  3. **i18n.ts** : permet d'améliorer l'expérience développeur 
  4. **pkg** : permet de créer un binaire variable
  5. **esbuild** : compilateur javascript
