@@ -6,7 +6,7 @@ Ce fichier recense les commandes et explications de chaque spécifications deman
 informations relatives à cette dernière comme le code de l'UE, les différents
 créneaux horaires ainsi que les salles qui lui sont associées.**
 ```console
- node . spec1 <codeUE>
+ node . info <codeUE>
 ```
 ### SPEC F02 - Consulter les informations d'une salle
 **Un utilisateur doit pouvoir consulter à quel moment de la semaine une
@@ -52,3 +52,9 @@ ancien.**
 ### SPEC NF03 - Accessibilité
 **Le système doit pouvoir fonctionner dans plusieurs langues (Français,
 Anglais, ...)**
+```console
+node . lang <fr>
+```
+```console
+node . lanf <en>
+```
