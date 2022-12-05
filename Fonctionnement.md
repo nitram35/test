@@ -21,4 +21,3 @@ La commande `node . db info`permettra de connaître le nombre d'UEs présentes d
 Nous pouvons également supprimer la Base de données de plusieurs façons :
  - `node . db drop` qui efface la base de données
  - `node . db delete --filter=<UE1>,<UE2>,...` qui efface seulement les données des UEs choisies
-
